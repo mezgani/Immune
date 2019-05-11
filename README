@@ -4,11 +4,13 @@ manage and eliminate any vulnerability and failure.
 UTM is an advanced centralized solutions and configurations for distributed environments, 
 well you can deploy sets of configurations instances.
 
-Native LABS’s UTM is hosted on cloud, where Native LABS keep on your network, and could help your administrators and 
-engineers to monitor your infrastructure and solve many issues.
+Native LABS’s UTM is hosted on Native LABs data centers, where we keep on your network, and could help your administrators and 
+engineers to monitor the infrastructure and solve many issues.
 
 Native LABS provide two kinds of clients agent appliance or light programs that you can host on your data center.
 The Native LABS’s UTM core is an automatos developed with C and Python, that’s based on a modular architecture.
+
+
 
 Features:
 - Infrastructure design
@@ -18,9 +20,16 @@ Features:
 - Security Systems Planning
 - Audit and full reporting
 - Patch and upgrade management
-- Notification system (Mail, SMS, …)
+- Notification system (Mail, SMSC, Radio, XMPP, ...)
 
 Technologies :
-Database : Postgresql, Sqlite
-Language : Html5, XML, Yaml,  PHP, Python, C, Javascript, (AppEngine)
+Database : Postgresql, Cassandra, MySQL, DB2
+Language : Html5, XML, Yaml, Python, C
+Tools    : Lex, Yacc, Evenbright, RabittMQ, Redis, Flask, Scala
+Modelisation : Z, Prolog
+Communities : RIPE, Debian, IETF, GNU, Kernel
+
+
+Partner : EMI, INPT, ENSIAS, Mohammed VI Science faculty ( Rabat ), J. Chrozerbeck, FAR
+
 
