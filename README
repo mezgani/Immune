@@ -7,26 +7,26 @@ well you can deploy sets of configurations instances.
 Native LABS’s UTM is hosted on Native LABs data centers, where we keep on your network, and could help your administrators and 
 engineers to monitor the infrastructure and solve many issues.
 
-Native LABS provide two kinds of clients agent appliance or light programs that you can host on your data center.
+Native LABS provide two kinds of clients agent appliance over MIPS architecture and light programs that you can host on your data center.
 The Native LABS’s UTM core is an automatos developed with C and Python, that’s based on a modular architecture.
 
 
 
 Features:
-- Infrastructure design
-- Equipment Specifications
-- System Testing
-- Risk and Vulnerability Assessment
-- Security Systems Planning
-- Audit and full reporting
-- Patch and upgrade management
-- Notification system (Mail, SMSC, Radio, XMPP, ...)
+Infrastructure design
+Equipment Specifications
+System Testing
+Risk and Vulnerability Assessment
+Security Systems Planning
+Audit and full reporting
+Patch and upgrade management
+Notification system (Mail, SMSC, Radio, XMPP, ...)
 
 Technologies :
 Database : Postgresql, Cassandra, MySQL, DB2
 Language : Html5, XML, Yaml, Python, C
 Tools    : Lex, Yacc, Evenbright, RabittMQ, Redis, Flask, Scala
-Modelisation : Z, Prolog
+Modelisation : Prolog, Z
 Communities : RIPE, Debian, IETF, GNU, Kernel
 
 
