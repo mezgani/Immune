@@ -24,12 +24,12 @@ The Native LABS’s UTM core is an automatos developed with C and Python, that�
 
 +----------+
 |  Epilog  |
-+----------+-------------------------------------------0oo0----( 0 0 )----0oo0------------------+
-| License  : BSD-v3                                                                             |                                   
-| Partners : INPT, ENSIAS, EMI, Académie Militaire, Mohammed VI Science faculty ( Rabat ), EMSI |
-| Tutors   : Russia, Dr. J. Chrozerbeck, F.A.R, China, MORX.ORG                                 |
-| Community: IETF, RIPE, Debian, GNU, Kernel                                                    |
-| Brains   : Bensaid Hicham, Idrassi Mounir                                                     |
-| Reference: usingz.com, ietf.org                                                               |
-+-----------------------------------------------------------------------------------------------+
++----------+-------------------------------------------0oo0----( 0 0 )----0oo0--------+
+| License  : BSD-v3                                                                   |                                   
+| Partners : INPT, ENSIAS, EMI, Académie Militaire, Mohammed VI Science faculty, EMSI |
+| Tutors   : Germany, Japan, Russia, China, Maghreb Aqsa, Iran, Dr. J. Chrozerbeck    |                                 
+| Community: IETF, RIPE, Debian, GNU, Kernel                                          |
+| Brains   : Bensaid Hicham, Idrassi Mounir                                           |
+| Reference: usingz.com, ietf.org                                                     |
++-------------------------------------------------------------------------------------+
 
