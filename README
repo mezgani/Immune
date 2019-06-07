@@ -1,11 +1,4 @@
-+------------------------------------------------------------+
-| Intelligent Unified Threat Management System               |
-|                                                            |
-|                                                Ali Mezgani |                     
-|                        F.A.R (Forces Armées Royales Maroc) |
-+------------------------------------------------------------+
-
-
+Intelligent Unified Threat Management System               
 
 The IUTMS is a structure with sentinel's comportment that include a core UTM ( Kernel LAND ) and a complete framework ( User LAND )
 who provides detailed assessments clients for an entire security infrastructures to identify, manage and eliminate any 
@@ -22,12 +15,4 @@ The Native LABS’s UTM core is an automatos developed with C and Python, that�
 
 
 
-+----------+
-|  Epilog  |
-+----------+-------------------------------------------0oo0----( 0 0 )----0oo0--------+
-| License  : BSD-v3                                                                   |                                   
-| Tutors   : Germany, Japan, Russia, Maghreb Aqsa, Iran, J.Chrozerbeck                |                                 
-| Community: IETF, RIPE, Debian, GNU, Kernel                                          |                                       
-| Reference: Z, IETF                                                                  |            
-+-------------------------------------------------------------------------------------+
 
