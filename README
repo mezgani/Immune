@@ -1,18 +1,38 @@
-Intelligent Unified Threat Management System               
+Cygnus® : Intelligent Unified Threat Management System               
+-------------------------------------------------------
 
-The IUTMS is a structure with sentinel's comportment that include a core UTM ( Kernel LAND ) and a complete framework ( User LAND )
-who provides detailed assessments clients for an entire security infrastructures to identify, manage and eliminate any 
-vulnerability and failure on extended exponentiel networks.
+IUTMS creatd and developped by Native LABS inc 2010.
 
-IUTMS is an advanced centralized solutions and configurations for a distributed environments, where you can deploy sets 
-of configurations instances over master and slave NOCs.
+The structure comports with sentinel's comportment that include a core UTM (Kernel LAND) and a complete 
+framework (User LAND) who provides detailed assessments clients for an entire security infrastructures 
+to identify, manage and eliminate any vulnerability and failure on extended exponentiel networks.
 
-Native LABS’s UTM is hosted on Native LABs data centers, where we keep on your network, and could help your administrators and 
-engineers to monitor the infrastructure and solve many issues.
+IUTMS is an IA application: Intelligent artifical facts applied to cypersecurity,
+an advanced centralized solutions and configurations for a distributed environments, 
+where you can deploy sets of configurations instances over master and slave NOCs.
 
-Native LABS provide two kinds of clients agent appliance over MIPS architecture and light programs that you can host on your data center.
-The Native LABS’s UTM core is an automatos developed with C and Python, that’s based on a modular architecture.
+Native LABS’s IUTMS is hosted on Native LABs data centers, where we keep an eye on your network, 
+and could help your administrators and engineers to monitor their infrastructure and solve many issues.
+
+cygnus started at first with a branch resilliance solution hosted in eatch offices datacenters.
+
+Native LABS provide two kinds of clients agent appliance over MIPS architecture and light programs 
+that you can host on your data center.
+
+The Native LABS’s UTM core is an automata developed with C, Python and Pasp whom based on a modular architecture.
 
 
+Authors:
+-------
+Ali Mezgani <ali.mezgani@icloud.com>
 
 
+Licenses : 
+---------
+- Copy code is probidded and not permitted without mentoring of a member of Native LABs
+- Update code is probidded unless mentoring of a members of Native LABs developper
+- Modification code is probidded and not permitted without mentoring of a members of Native LABs
+- Distribution of code or sell without the grants of the upstream (Native LABs) is punished under international law
+
+Native LABS, inc. Copyright 2010
+                                                     
