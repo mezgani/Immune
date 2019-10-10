@@ -82,67 +82,12 @@ struct mainboard {
  */
 
 
-struct central_processor_socket {
-  unsigned float clock;
-  char *architecture;
-  short int registers;
-  short int cache;
-  unsigned char *msg;
-  struct module_stack *ptr;
-  struct exec_stack *eptr;
-  struct exceptions *ex_ptr;
-  struct registers *rptr;
-};
-
-struct memory_socket {
-  short int size;
-  short int endianess;
-};
-
 
 /*
  * The variable sommet point to module_stack sommet, load module instruction
  * into exec_stack and  
  */
 
-struct module_stack {
-  unsigned char *module;
-  struct module_stack *sommet;
-  unsigned int offset;
-};
-
-struct exec_stack {
-  unsigned char *instrcution;
-  unsigned char *data;
-  unsigned int   offset;
-  struct exec_stack *ins_ptr;
-  struct exec_stack *sommet;
-};
-
-
-struct module_dep_list {
-  char *module_name;
-  struct module_dep_tree *next;
-};
-
-struct exception {
-  unsigned char *msg;
-  unsigned short int errno;
-  struct exception *next;
-}; 
-
-
-typedef struct token token[] tokens;
-typedef struct module_stack module_stack[MSIZE] mstack;
-typedef struct exec_stack exec_stack[ESIZE] estack;
-typedef struct expcetion exception[] exceptions; 
- 
-void init_processor();
-void init_memory();
-void messaging_handler();
-void parsing();
-void filtering();
-void security_policy();
 
 /*
  * Splitting message into data example "MessageProcessing VNS"

@@ -22,7 +22,7 @@ that you can host on your data center.
 The Native LABS’s UTM core is an automata developed with C, Python and Pasp whom based on a modular architecture.
 
 
-Authors:
+Author:
 -------
 Ali Mezgani <ali.mezgani@icloud.com>
 
@@ -35,4 +35,3 @@ Licenses :
 - Distribution of code or sell without the grants of the upstream (Native LABs) is punished under international law
 
 Native LABS, inc. Copyright 2010
-                                                     
